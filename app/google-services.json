@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "827664520353",
+    "firebase_url": "https://seoulcontest-8b23a.firebaseio.com",
+    "project_id": "seoulcontest-8b23a",
+    "storage_bucket": "seoulcontest-8b23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827664520353:android:7edf0ad41b76f08a",
+        "android_client_info": {
+          "package_name": "com.funnytoday.ddoniddoni.seoulzerobottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827664520353-1tg0c0rt5om5mgfbkq75lpqrp9m539h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funnytoday.ddoniddoni.seoulzerobottle",
+            "certificate_hash": "d4483baef384d149f5b33f9071b28e2039d77000"
+          }
+        },
+        {
+          "client_id": "827664520353-cvr0v577q871vk9cq964cvkcunj7om5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Y8mwbgXujfXT23Uoy80lKaYfCcpZTmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827664520353-cvr0v577q871vk9cq964cvkcunj7om5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

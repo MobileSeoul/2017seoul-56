@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_top"
+            android:icon="@drawable/ic_warning_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_bottom"
+            android:icon="@drawable/ic_credit_card_black_24dp"
+            android:title="@string/nav_photos" />
+        <item
+            android:id="@+id/nav_stuff"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="@string/nav_movies" />
+
+        <item
+            android:id="@+id/nav_closet"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="@string/nav_settings" />
+        <item
+            android:id="@+id/nav_cum"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="@string/nav_about_us" />
+    </group>
+
+    <item android:title="흠">
+        <menu>
+
+        </menu>
+    </item>
+
+</menu>
